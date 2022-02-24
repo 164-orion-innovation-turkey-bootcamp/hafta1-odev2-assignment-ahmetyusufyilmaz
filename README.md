@@ -10,8 +10,6 @@ Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf
 (style, classList ile stillerle oynayabilirsiniz)
 (addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
 
-[img1](https://www.hizliresim.com/teyz3zx)
+<img src="https://i.hizliresim.com/teyz3zx.png" width="500" height="500">
 
-[img2](https://www.hizliresim.com/4hzmarq)
-
-<img src="https://i.hizliresim.com/teyz3zx.png" width="500" height="600">
+<img src="https://i.hizliresim.com/4hzmarq.png" width="500" height="500">
