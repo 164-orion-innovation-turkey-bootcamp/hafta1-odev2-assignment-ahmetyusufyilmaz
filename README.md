@@ -10,6 +10,6 @@ Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf
 (style, classList ile stillerle oynayabilirsiniz)
 (addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
 
-[img1](https://github.com/164-orion-innovation-turkey-bootcamp/hafta1-odev2-assignment-ahmetyusufyilmaz/blob/main/img1.png?raw=true)
+[img1](https://www.hizliresim.com/teyz3zx)
 
-[img2](https://github.com/164-orion-innovation-turkey-bootcamp/hafta1-odev2-assignment-ahmetyusufyilmaz/blob/main/img2.png?raw=true)
+[img2](https://www.hizliresim.com/4hzmarq)
