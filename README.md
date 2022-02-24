@@ -9,3 +9,8 @@ Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf
 (querySelector ile html elementlerine erişim sağlayabilirsiniz)
 (style, classList ile stillerle oynayabilirsiniz)
 (addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
+
+
+https://github.com/164-orion-innovation-turkey-bootcamp/hafta1-odev2-assignment-ahmetyusufyilmaz/blob/main/img1.png
+
+https://github.com/164-orion-innovation-turkey-bootcamp/hafta1-odev2-assignment-ahmetyusufyilmaz/blob/main/img2.png
