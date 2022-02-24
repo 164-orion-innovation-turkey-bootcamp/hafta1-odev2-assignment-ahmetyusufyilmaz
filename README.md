@@ -14,4 +14,4 @@ Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf
 
 [img2](https://www.hizliresim.com/4hzmarq)
 
-<img src="https://www.hizliresim.com/teyz3zx" width="500" height="600">
+<img src="https://i.hizliresim.com/teyz3zx.png" width="500" height="600">
